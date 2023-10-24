@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
-import '../components/current_weather_widget.dart';
-import '../components/daily_data_forecast.dart';
-import '../components/header_widget.dart';
-import '../components/hourly_data_widget.dart';
 import '../constants/constants.dart';
 import '../controllers/weather_controller.dart';
+import 'components/current_weather_widget.dart';
+import 'components/daily_data_forecast.dart';
+import 'components/header_widget.dart';
+import 'components/hourly_data_widget.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
