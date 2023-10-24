@@ -27,4 +27,4 @@
 ```
 
 #### Home Screen
-![image](https://github.com/alghanykennedy/flutter_getx_simple_news_app/assets/82708330/82316385-7ae7-4313-aab7-6abc369b865f)
+![image](https://github.com/tranphucchuong2000/weather/blob/main/screenshot/hone_screen.png)
